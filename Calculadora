@@ -5,10 +5,10 @@ while True:
     print("""
     Dime, ¿qué quieres hacer?
     
-    1) Sumar los dos números
-    2) Restar los dos números
-    3) Dividir los dos numeros
-    4) Multiplicar los dos números
+    1) Sumar
+    2) Restar
+    3) Dividir
+    4) Multiplicar
     5) Regresar al menu
     6) Apagar calculadora
     """)
