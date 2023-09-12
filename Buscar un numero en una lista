@@ -1,0 +1,12 @@
+#Búsqueda de números en una lista
+lista = [4, 9, 13, 7, 40, 11, 29, 31, 19, 17, 22,37] 
+
+print("Buscar un número de la lista mostrada.")
+print (lista)
+
+num = int(input("Ingrese el número que desea buscar: "))
+
+if num in lista:
+  print("El número " + str(num) +  " se encuentra en la lista.")
+else: 
+  print ("El número "+ str(num) + " no se encuentra en la lista.")
